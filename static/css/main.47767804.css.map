@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.47767804.css","mappings":"AAOE,KACE,SARK,CAOP,MACE,UARK,CAOP,OACE,WARK","sources":["App.scss"],"sourcesContent":["$colors: (\n  red: red,\n  blue: blue,\n  green: green\n);\n\n@each $name, $color in $colors {\n  ##{$name} {\n    color: $color;\n  }\n}\n"],"names":[],"sourceRoot":""}
